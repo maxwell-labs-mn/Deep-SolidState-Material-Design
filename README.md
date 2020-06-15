@@ -1,0 +1,2 @@
+# Deep-SolidState-Material-Design
+Deep Solid-State Material Design (Deep-SSMD) is a python-based framework for materials design which utilizes a state-of-the-art neural network architecture known as graph networks to predict new materials and alloys from an imposed set of constraints on the desired material's features. Source code is unreleased but we provide some illustrative examples of how the tool is used internally to predict novel alloys based on properties like thermal conductivity, density, heat capacity, and molar magnetic susceptibility to name a few.
